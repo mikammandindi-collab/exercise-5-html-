@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Tech Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#articles">Articles</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <header id="home">
+        <h1>My Tech Blog</h1>
+        <p>Welcome to my technology blog!</p>
+    </header>
+
+    <main id="articles">
+
+        <article id="about">
+            <h2>Review of Smartphones</h2>
+            <p>
+                Smartphones are useful devices that help people
+                communicate, learn and stay organised. They allow
+                us to make calls, send messages, take photos and
+                use different applications.
+            </p>
+            <p>
+                I like smartphones because they are easy to carry
+                and can be used for many different tasks. They
+                make it easier to access information and stay
+                connected with other people.
+            </p>
+        </article>
+
+        <article>
+            <h2>Review of Laptops</h2>
+            <p>
+                Laptops are useful because they allow people to
+                work, study and browse the internet from different
+                places. They can be used to write documents,
+                attend online classes and complete projects.
+            </p>
+            <p>
+                I like laptops because they have a bigger screen
+                and a keyboard, which makes typing and completing
+                work easier. They are also portable and easy to
+                carry around.
+            </p>
+        </article>
+
+    </main>
+
+    <footer id="contact">
+        <p>Thank you for reading My Tech Blog.</p>
+    </footer>
+
+</body>
+</html>
+
